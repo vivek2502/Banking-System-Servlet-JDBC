@@ -26,3 +26,8 @@ Import in Eclipse IDE, Perspective should be Java EE
 Use Oracle 10G database 
 
 Modify the credential in Model.java file for database.
+
+Install below dependency lib
+
+![image](https://user-images.githubusercontent.com/42957988/178555569-a489b529-c890-4419-b228-7179730dd1e8.png)
+
